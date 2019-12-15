@@ -9,6 +9,7 @@ Catatan: Proyek OSS Anda ingin dijebloskan ke sini? Silakan kirim PR (pull reque
 Berikut adalah proyek OSS yang dikerjakan oleh pekerja perusahaan, misalnya perekayasawan/wati (_software engineer_), sebagai bagian dari lingkup kerja resmi mereka.
 
 * [github.com/hyperjumptech/grule-rule-engine](https://github.com/hyperjumptech/grule-rule-engine): A rule engine library for Golang programming language. Inspired by the acclaimed JBOSS Drools, done in a much simple manner.
+* [github.com/traveloka/react-native-coachmark](https://github.com/traveloka/react-native-coachmark): React native component for coach marks
 
 ## Proyek OSS Pribadi
 
