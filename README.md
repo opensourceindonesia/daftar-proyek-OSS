@@ -13,6 +13,7 @@ Berikut adalah proyek OSS yang dikerjakan oleh pekerja perusahaan, misalnya pere
 * [github.com/bukalapak/snowboard](https://github.com/bukalapak/snowboard): Toolkit untuk [API blueprint](https://apiblueprint.org/), bisa digunakan untuk menggabung dan memvalidasi API blueprint, sebagai server mock dan membuat dokumentasi HTML interaktif yang bisa di kustomisasi sesuai kebutuhan.
 
 * [github.com/hyperjumptech/grule-rule-engine](https://github.com/hyperjumptech/grule-rule-engine): A rule engine library for Golang programming language. Inspired by the acclaimed JBOSS Drools, done in a much simple manner.
+* [github.com/traveloka/react-native-coachmark](https://github.com/traveloka/react-native-coachmark): React native component for coach marks
 
 * [github.com/kubernetes/website](https://github.com/kubernetes/website/tree/master/content/id): Sebuah proyek lokalisasi dokumentasi Kubernetes ke dalam bahasa Indonesia [kubernetes.io/id](https://kubernetes.io/id), dikelola oleh [SIG Docs ID](https://github.com/jk8s/sig-docs-id) dan [Komunitas Kubernetes/CloudNative Indonesia](https://github.com/cloudnative-id/meetups). Gabung di Slack channel [#kubernetes-docs-id](https://kubernetes.slack.com/archives/CJ1LUCUHM) untuk memulai kontribusi.
 
