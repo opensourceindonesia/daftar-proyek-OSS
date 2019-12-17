@@ -19,3 +19,5 @@ Berikut adalah proyek OSS yang dikerjakan oleh WNI sebagai hobi, kegiatan sampin
 * [github.com/mecha-cms](https://github.com/mecha-cms): Sistem manajemen konten berbasis PHP (tanpa basis data) untuk mereka yang memiliki hobi menulis jurnal di blog namun tidak terbiasa atau masih takut dengan tampilan CLI yang biasanya terdapat pada alat-alat bantu generator halaman web statis. Mecha bukan merupakan alat generator halaman web statis, namun sistem manajemen konten berbasis berkas dengan konsep yang minimalis.
 
 * [github.com/newm4n/go-dfe](https://github.com/newm4n/go-dfe): A date/time format echange between golang date format and java date format. Its to help those who so accustomed with Java's simple date format.
+
+* [https://github.com/halaldata](https://github.com/halaldata): Inisiasi proyek kode terbuka dan data terbuka untuk memudahkan pelancong menemukan makanan halal di negara lain, terutama negara yang mungkin tidak ada sertifikat halal, _Dicari Contributor dan Developer untuk melanjutkan proyek_
