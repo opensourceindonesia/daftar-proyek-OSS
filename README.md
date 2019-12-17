@@ -21,3 +21,13 @@ Berikut adalah proyek OSS yang dikerjakan oleh WNI sebagai hobi, kegiatan sampin
 * [github.com/newm4n/go-dfe](https://github.com/newm4n/go-dfe): A date/time format echange between golang date format and java date format. Its to help those who so accustomed with Java's simple date format.
 
 * [https://github.com/halaldata](https://github.com/halaldata): Inisiasi proyek kode terbuka dan data terbuka untuk memudahkan pelancong menemukan makanan halal di negara lain, terutama negara yang mungkin tidak ada sertifikat halal, _Dicari Contributor dan Developer untuk melanjutkan proyek_
+
+* [https://github.com/bxcodec/faker](https://github.com/bxcodec/faker): Fake data generator untuk Golang struct. Berguna untuk kebutuhan unit testing dan faking data.
+
+* [https://github.com/bxcodec/go-clean-arch](https://github.com/bxcodec/go-clean-arch): Clean Architecture Implementations di Golang. Berguna untuk teman-teman yang baru masuk ke Golang, namun peduli tentang scalability, and maintainability.
+
+* [https://github.com/bxcodec/gotcha](https://github.com/bxcodec/gotcha): Simple implemantations dari Cache Algorithm (LRU dan LFU). Pure Golang. Belum tested in Real production. _butuh opini dan saran terkait memory management dari teman-teman yang lebih paham hehe_
+
+* [https://github.com/bxcodec/goson](https://github.com/bxcodec/goson): Ekstrak JSON data dan validasi JSON data berdasarkan JSON Scheman. Ditulis dengan bahasa programming Golang. Masih dalam proses pengerjaan. 
+
+* [https://github.com/golangid/testada](https://github.com/golangid/testada): Test Suite Boilerplate untuk integrations testing terhadap database. Berguna untuk kebutuhan testing di aplikasi Golang.
