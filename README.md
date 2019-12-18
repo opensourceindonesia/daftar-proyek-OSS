@@ -12,6 +12,8 @@ Berikut adalah proyek OSS yang dikerjakan oleh pekerja perusahaan, misalnya pere
 
 * [github.com/kubernetes/website](https://github.com/kubernetes/website/tree/master/content/id): Sebuah proyek lokalisasi dokumentasi Kubernetes ke dalam bahasa Indonesia [kubernetes.io/id](https://kubernetes.io/id), dikelola oleh [SIG Docs ID](https://github.com/jk8s/sig-docs-id) dan [Komunitas Kubernetes/CloudNative Indonesia](https://github.com/cloudnative-id/meetups). Gabung di Slack channel [#kubernetes-docs-id](https://kubernetes.slack.com/archives/CJ1LUCUHM) untuk memulai kontribusi.
 
+* [github.com/bukalapak/snowboard](https://github.com/bukalapak/snowboard): Toolkit untuk [API blueprint](https://apiblueprint.org/), bisa digunakan untuk menggabung dan memvalidasi API blueprint, sebagai server mock dan membuat dokumentasi HTML interaktif yang bisa di kustomisasi sesuai kebutuhan.
+
 ## Proyek OSS Pribadi
 
 Berikut adalah proyek OSS yang dikerjakan oleh WNI sebagai hobi, kegiatan sampingan, bagian dari aktivitas belajar, dsb.
