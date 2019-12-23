@@ -23,3 +23,5 @@ Berikut adalah proyek OSS yang dikerjakan oleh WNI sebagai hobi, kegiatan sampin
 * [github.com/newm4n/go-dfe](https://github.com/newm4n/go-dfe): A date/time format echange between golang date format and java date format. Its to help those who so accustomed with Java's simple date format.
 
 * [https://github.com/halaldata](https://github.com/halaldata): Inisiasi proyek kode terbuka dan data terbuka untuk memudahkan pelancong menemukan makanan halal di negara lain, terutama negara yang mungkin tidak ada sertifikat halal, _Dicari Contributor dan Developer untuk melanjutkan proyek_
+
+* [https://github.com/bxcodec/faker](https://github.com/bxcodec/faker): Faker will generate you a fake data based on your struct
