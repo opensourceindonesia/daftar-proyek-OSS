@@ -26,9 +26,9 @@ Berikut adalah proyek OSS yang dikerjakan oleh WNI sebagai hobi, kegiatan sampin
 
 * [https://github.com/bxcodec/go-clean-arch](https://github.com/bxcodec/go-clean-arch): Clean Architecture Implementations di Golang. Berguna untuk teman-teman yang baru masuk ke Golang, namun peduli tentang scalability, and maintainability.
 
-* [https://github.com/bxcodec/gotcha](https://github.com/bxcodec/gotcha): Simple implemantations dari Cache Algorithm (LRU dan LFU). Pure Golang. Belum tested in Real production. _Dibutuhkan opini dan saran terkait memory management dari teman-teman yang lebih paham hehe_
-
 * [https://github.com/bxcodec/goson](https://github.com/bxcodec/goson): Ekstrak JSON data dan validasi JSON data berdasarkan JSON Schema. Ditulis dengan bahasa programming Golang. Masih dalam proses pengerjaan. 
+
+* [https://github.com/bxcodec/gotcha](https://github.com/bxcodec/gotcha): Simple implemantations dari Cache Algorithm (LRU dan LFU). Pure Golang. Belum tested in Real production. _Dibutuhkan opini dan saran terkait memory management dari teman-teman yang lebih paham hehe_
 
 * [https://github.com/golangid/testada](https://github.com/golangid/testada): Test Suite Boilerplate untuk integrations testing terhadap database. Berguna untuk kebutuhan testing di aplikasi Golang.
 
