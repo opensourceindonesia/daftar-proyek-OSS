@@ -18,6 +18,8 @@ Berikut adalah proyek OSS yang dikerjakan oleh pekerja perusahaan, misalnya pere
 
 * [github.com/pathfinder-cm](https://github.com/pathfinder-cm): Pathfinder is a container manager, which functionality is to abstract away multiple computing nodes into a single unit of computing resource where people can assign workload (in form of container) into it. Pathfinder is built on top of LXD.
 
+* [github.com/tanibox/tania-core](https://github.com/tanibox/tania-core): A farm management software written in Go programming language. It's initiated and maintained by [Tanibox](https://tanibox.com) an agritech company that focuses in precision farming.
+
 ## Proyek OSS Pribadi
 
 Berikut adalah proyek OSS yang dikerjakan oleh WNI sebagai hobi, kegiatan sampingan, bagian dari aktivitas belajar, dsb.
