@@ -21,6 +21,7 @@ Berikut adalah proyek OSS yang dikerjakan oleh pekerja perusahaan, misalnya pere
 
 * [ISO-8583 Processor](https://github.com/artivisi/iso8583-processor): Library untuk memparsing message [ISO-8583](https://en.wikipedia.org/wiki/ISO_8583) menjadi object dan sebaliknya.
 
+* [github.com/tanibox/tania-core](https://github.com/tanibox/tania-core): A farm management software written in Go programming language. It's initiated and maintained by [Tanibox](https://tanibox.com) an agritech company that focuses in precision farming.
 
 ## Proyek OSS Pribadi
 
