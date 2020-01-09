@@ -27,14 +27,25 @@ Berikut adalah proyek OSS yang dikerjakan oleh pekerja perusahaan, misalnya pere
 
 Berikut adalah proyek OSS yang dikerjakan oleh WNI sebagai hobi, kegiatan sampingan, bagian dari aktivitas belajar, dsb.
 
+* [github.com/bxcodec/faker](https://github.com/bxcodec/faker): Fake data generator untuk Golang struct. Berguna untuk kebutuhan unit testing dan faking data.
+
+* [github.com/bxcodec/go-clean-arch](https://github.com/bxcodec/go-clean-arch): Clean Architecture Implementations di Golang. Berguna untuk teman-teman yang baru masuk ke Golang, namun peduli tentang scalability, and maintainability.
+
+* [github.com/bxcodec/goson](https://github.com/bxcodec/goson): Ekstrak JSON data dan validasi JSON data berdasarkan JSON Schema. Ditulis dengan bahasa programming Golang. Masih dalam proses pengerjaan. 
+
+* [github.com/bxcodec/gotcha](https://github.com/bxcodec/gotcha): Simple implemantations dari Cache Algorithm (LRU dan LFU). Pure Golang. Belum tested in Real production. _Dibutuhkan opini dan saran terkait memory management dari teman-teman yang lebih paham hehe_
+
+* [github.com/golangid/testada](https://github.com/golangid/testada): Test Suite Boilerplate untuk integrations testing terhadap database. Berguna untuk kebutuhan testing di aplikasi Golang.
+
+* [github.com/halaldata](https://github.com/halaldata): Inisiasi proyek kode terbuka dan data terbuka untuk memudahkan pelancong menemukan makanan halal di negara lain, terutama negara yang mungkin tidak ada sertifikat halal, _Dicari Contributor dan Developer untuk melanjutkan proyek_
+
 * [github.com/mecha-cms](https://github.com/mecha-cms): Sistem manajemen konten berbasis PHP (tanpa basis data) untuk mereka yang memiliki hobi menulis jurnal di blog namun tidak terbiasa atau masih takut dengan tampilan CLI yang biasanya terdapat pada alat-alat bantu generator halaman web statis. Mecha bukan merupakan alat generator halaman web statis, namun sistem manajemen konten berbasis berkas dengan konsep yang minimalis.
 
 * [github.com/newm4n/go-dfe](https://github.com/newm4n/go-dfe): A date/time format echange between golang date format and java date format. Its to help those who so accustomed with Java's simple date format.
 
-* [github.com/styd/apexcharts.rb](https://github.com/styd/apexcharts.rb): Ruby charting library that's going to give your ruby app beautiful, interactive, and responsive charts powered by ApexCharts.JS. On top of those sweet advantages, you'll also get extra features that you can't get by just including ApexCharts.JS to your ruby app, namely view/template helpers for creating charts, options shortcuts, application wide default options, reusable custom theme palette, and so on.
+* [github.com/playsms (PlaySMS)](https://github.com/playsms): A flexible Web-based mobile portal system that it can be made to fit to various services such as an SMS gateway, bulk SMS provider, personal messaging system, corporate and group communication tools
 
-* [https://github.com/halaldata](https://github.com/halaldata): Inisiasi proyek kode terbuka dan data terbuka untuk memudahkan pelancong menemukan makanan halal di negara lain, terutama negara yang mungkin tidak ada sertifikat halal, _Dicari Contributor dan Developer untuk melanjutkan proyek_
+* [github.com/styd/apexcharts.rb](https://github.com/styd/apexcharts.rb): Ruby charting library that's going to give your ruby app beautiful, interactive, and responsive charts powered by ApexCharts.JS. On top of those sweet advantages, you'll also get extra features that you can't get by just including ApexCharts.JS to your ruby app, namely view/template helpers for creating charts, options shortcuts, application wide default options, reusable custom theme palette, and so on.
 
 * [github.com/wildan3105/github-langs](https://github.com/wildan3105/github-langs): A website to see what languages are used from a specific github account and displayed it in a bar graph.
 
-* [PlaySMS](https://github.com/playsms): A flexible Web-based mobile portal system that it can be made to fit to various services such as an SMS gateway, bulk SMS provider, personal messaging system, corporate and group communication tools
