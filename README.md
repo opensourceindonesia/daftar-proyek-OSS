@@ -41,6 +41,8 @@ Berikut adalah proyek OSS yang dikerjakan oleh WNI sebagai hobi, kegiatan sampin
 
 * [github.com/mecha-cms](https://github.com/mecha-cms): Sistem manajemen konten berbasis PHP (tanpa basis data) untuk mereka yang memiliki hobi menulis jurnal di blog namun tidak terbiasa atau masih takut dengan tampilan CLI yang biasanya terdapat pada alat-alat bantu generator halaman web statis. Mecha bukan merupakan alat generator halaman web statis, namun sistem manajemen konten berbasis berkas dengan konsep yang minimalis.
 
+* [github.com/notulen/uud-1945](https://github.com/notulen/uud-1945): Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 dan rekam sejarah perubahannya.
+
 * [github.com/newm4n/go-dfe](https://github.com/newm4n/go-dfe): A date/time format echange between golang date format and java date format. Its to help those who so accustomed with Java's simple date format.
 
 * [github.com/playsms (PlaySMS)](https://github.com/playsms): A flexible Web-based mobile portal system that it can be made to fit to various services such as an SMS gateway, bulk SMS provider, personal messaging system, corporate and group communication tools
