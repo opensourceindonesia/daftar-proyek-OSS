@@ -49,5 +49,7 @@ Berikut adalah proyek OSS yang dikerjakan oleh WNI sebagai hobi, kegiatan sampin
 
 * [github.com/styd/apexcharts.rb](https://github.com/styd/apexcharts.rb): Ruby charting library that's going to give your ruby app beautiful, interactive, and responsive charts powered by ApexCharts.JS. On top of those sweet advantages, you'll also get extra features that you can't get by just including ApexCharts.JS to your ruby app, namely view/template helpers for creating charts, options shortcuts, application wide default options, reusable custom theme palette, and so on.
 
+* [github.com/SurgicalSteel/elasthink](https://github.com/SurgicalSteel/elasthink/): An alternative to elasticsearch engine written in Go for small set of documents that uses inverted index to build the index and utilizes redis to store the indexes.
+
 * [github.com/wildan3105/github-langs](https://github.com/wildan3105/github-langs): A website to see what languages are used from a specific github account and displayed it in a bar graph.
 
