@@ -53,5 +53,9 @@ Berikut adalah proyek OSS yang dikerjakan oleh WNI sebagai hobi, kegiatan sampin
 
 * [github.com/wildan3105/github-langs](https://github.com/wildan3105/github-langs): A website to see what languages are used from a specific github account and displayed it in a bar graph.
 
+* [github.com/mufti1/interconv](https://github.com/mufti1/interconv): GO lib to Convert json interface into any specific type.
+
+* [github.com/mufti1/json-to-swagger](https://github.com/mufti1/json-to-swagger): Tools dan [website](https://json-to-swagger.netlify.com/) untuk parsing JSON schema ke Swagger YAML schema.
+
 * [github.com/penggguna/QuranJSON](https://github.com/penggguna/QuranJSON): Simplified Perfect Complete Quran JSON (Indonesia Translation, Tafsir, and Audio) with API 
 
