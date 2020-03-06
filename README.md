@@ -53,3 +53,5 @@ Berikut adalah proyek OSS yang dikerjakan oleh WNI sebagai hobi, kegiatan sampin
 
 * [github.com/wildan3105/github-langs](https://github.com/wildan3105/github-langs): A website to see what languages are used from a specific github account and displayed it in a bar graph.
 
+* [github.com/penggguna/QuranJSON](https://github.com/penggguna/QuranJSON): Simplified Perfect Complete Quran JSON (Indonesia Translation, Tafsir, and Audio) with API 
+
