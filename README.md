@@ -27,6 +27,8 @@ Berikut adalah proyek OSS yang dikerjakan oleh pekerja perusahaan, misalnya pere
 
 Berikut adalah proyek OSS yang dikerjakan oleh WNI sebagai hobi, kegiatan sampingan, bagian dari aktivitas belajar, dsb.
 
+* [github.com/ariaghora/noe](https://github.com/ariaghora/noe): Framework jaringan saraf tiruan untuk bahasa pemrograman (object) pascal.
+
 * [github.com/bxcodec/faker](https://github.com/bxcodec/faker): Fake data generator untuk Golang struct. Berguna untuk kebutuhan unit testing dan faking data.
 
 * [github.com/bxcodec/go-clean-arch](https://github.com/bxcodec/go-clean-arch): Clean Architecture Implementations di Golang. Berguna untuk teman-teman yang baru masuk ke Golang, namun peduli tentang scalability, and maintainability.
