@@ -27,6 +27,8 @@ Berikut adalah proyek OSS yang dikerjakan oleh pekerja perusahaan, misalnya pere
 
 Berikut adalah proyek OSS yang dikerjakan oleh WNI sebagai hobi, kegiatan sampingan, bagian dari aktivitas belajar, dsb.
 
+* [github.com/tvalentius/Indonesia-topojson](https://github.com/tvalentius/Indonesia-topojson): Data TopoJSON Indonesia dengan tingkat akurasi kota-kabupaten.
+
 * [github.com/ariaghora/noe](https://github.com/ariaghora/noe): Framework jaringan saraf tiruan untuk bahasa pemrograman (object) pascal.
 
 * [github.com/bxcodec/faker](https://github.com/bxcodec/faker): Fake data generator untuk Golang struct. Berguna untuk kebutuhan unit testing dan faking data.
