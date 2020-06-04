@@ -12,6 +12,8 @@ Berikut adalah proyek OSS yang dikerjakan oleh pekerja perusahaan, misalnya pere
 
 * [github.com/bukalapak/snowboard](https://github.com/bukalapak/snowboard): Toolkit untuk [API blueprint](https://apiblueprint.org/), bisa digunakan untuk menggabung dan memvalidasi API blueprint, sebagai server mock dan membuat dokumentasi HTML interaktif yang bisa di kustomisasi sesuai kebutuhan.
 
+* [github.com/gojek/nsxt_exporter](https://github.com/gojek/nsxt_exporter): Server sederhana yang mengumpulkan statistik dari [NSX-T](https://docs.vmware.com/en/VMware-NSX-T-Data-Center/2.3/com.vmware.nsxt.install.doc/GUID-10B1A61D-4DF2-481E-A93E-C694726393F9.html), jaringan berbasis perangkat lunak (_software-defined networking_) dari VMware, untuk dikonsumsi oleh [Prometheus](https://prometheus.io/).
+
 * [github.com/hyperjumptech/grule-rule-engine](https://github.com/hyperjumptech/grule-rule-engine): A rule engine library for Golang programming language. Inspired by the acclaimed JBOSS Drools, done in a much simple manner.
 
 * [github.com/traveloka/react-native-coachmark](https://github.com/traveloka/react-native-coachmark): React native component for coach marks
