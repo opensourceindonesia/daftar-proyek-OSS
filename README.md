@@ -28,6 +28,12 @@ Berikut adalah proyek OSS yang dikerjakan oleh pekerja perusahaan, misalnya pere
 
 * [github.com/warungpintar/siera-kube-watch](https://github.com/warungpintar/siera-kube-watch): siera kubewatch is a Kubernetes events watcher that aims to publish incident (unexpected event) as a notification through webhooks. We provide a [helm chart](https://github.com/warungpintar/charts/tree/master/warpin/siera-kube-watch) for easy installation 
 
+* [github.com/BiznetGIO/RESTKnot](https://github.com/BiznetGIO/RESTKnot): RESTKnot provide a high-level asynchronous API to existing [Knot DNS server](https://gitlab.nic.cz/knot/knot-dns). A user can create DNS record through web API provided by RESTKnot API, or as command line app using RESTKnot CLI. 
+
+* [github.com/BiznetGIO/neo-obs](https://github.com/BiznetGIO/neo-obs): API, CLI, and Python library for S3 compatible storage. This application can also manage storage as an admin, such as Cloudian CMC and OpenIO.
+
+* [github.com/BiznetGIO/neo-cli](https://github.com/BiznetGIO/neo-cli): High level abstraction [Infrastructur as Code (IaC)](https://en.wikipedia.org/wiki/Infrastructure_as_code) for Openstack. `neo-cli` lower the barrier of understanding complicated IaC, memorizing long command and parameters to create your cloud infrastructure. `neo-cli` will interactively ask what you need.
+
 ## Proyek OSS Pribadi
 
 Berikut adalah proyek OSS yang dikerjakan oleh WNI sebagai hobi, kegiatan sampingan, bagian dari aktivitas belajar, dsb.
