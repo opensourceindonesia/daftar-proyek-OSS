@@ -62,6 +62,8 @@ Berikut adalah proyek OSS yang dikerjakan oleh WNI sebagai hobi, kegiatan sampin
 
 * [github.com/newm4n/go-dfe](https://github.com/newm4n/go-dfe): A date/time format echange between golang date format and java date format. Its to help those who so accustomed with Java's simple date format.
 
+* [github.com/ardikars/pcap](https://github.com/ardikars/pcap): Provides JVM network packet processing library for rapid development.
+
 * [github.com/playsms (PlaySMS)](https://github.com/playsms): A flexible Web-based mobile portal system that it can be made to fit to various services such as an SMS gateway, bulk SMS provider, personal messaging system, corporate and group communication tools
 
 * [github.com/styd/apexcharts.rb](https://github.com/styd/apexcharts.rb): Ruby charting library that's going to give your ruby app beautiful, interactive, and responsive charts powered by ApexCharts.JS. On top of those sweet advantages, you'll also get extra features that you can't get by just including ApexCharts.JS to your ruby app, namely view/template helpers for creating charts, options shortcuts, application wide default options, reusable custom theme palette, and so on.
