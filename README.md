@@ -52,6 +52,10 @@ Berikut adalah proyek OSS yang dikerjakan oleh WNI sebagai hobi, kegiatan sampin
 
 * [github.com/bxcodec/gotcha](https://github.com/bxcodec/gotcha): Simple implemantations dari Cache Algorithm (LRU dan LFU). Pure Golang. Belum tested in Real production. _Dibutuhkan opini dan saran terkait memory management dari teman-teman yang lebih paham hehe_
 
+* [github.com/Fs02/go-todo-backend](https://github.com/Fs02/go-todo-backend): Contoh microservice Todo API yang dibuat menggunakan pendekatan struktur modular. 
+
+* [github.com/go-rel/rel](https://github.com/go-rel/rel): Database Access Layer (DAL/ORM-ish) kekinian untuk bahasa pemograman Golang - Mudah ditest, Mudah di extend, dan dikemas dalam API yang bersih dan elegan. 
+
 * [github.com/golangid/testada](https://github.com/golangid/testada): Test Suite Boilerplate untuk integrations testing terhadap database. Berguna untuk kebutuhan testing di aplikasi Golang.
 
 * [github.com/halaldata](https://github.com/halaldata): Inisiasi proyek kode terbuka dan data terbuka untuk memudahkan pelancong menemukan makanan halal di negara lain, terutama negara yang mungkin tidak ada sertifikat halal, _Dicari Contributor dan Developer untuk melanjutkan proyek_
