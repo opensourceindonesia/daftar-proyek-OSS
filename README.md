@@ -34,6 +34,11 @@ Berikut adalah proyek OSS yang dikerjakan oleh pekerja perusahaan, misalnya pere
 
 * [github.com/BiznetGIO/neo-cli](https://github.com/BiznetGIO/neo-cli): High level abstraction [Infrastructur as Code (IaC)](https://en.wikipedia.org/wiki/Infrastructure_as_code) for Openstack. `neo-cli` lower the barrier of understanding complicated IaC, memorizing long command and parameters to create your cloud infrastructure. `neo-cli` will interactively ask what you need.
 
+## Proyek OSS dari Komunitas
+Berikut adalah proyek OSS yang dikerjakan oleh komunitas/pegiat/yayasan 
+
+* [https://github.com/OpenSID/OpenSID](https://github.com/OpenSID/OpenSID): Sistem Informasi Desa (SID) yang sengaja dibuat terbuka agar dapat dikembangkan secara bersama-sama oleh komunitas peduli SID
+
 ## Proyek OSS Pribadi
 
 Berikut adalah proyek OSS yang dikerjakan oleh WNI sebagai hobi, kegiatan sampingan, bagian dari aktivitas belajar, dsb.
