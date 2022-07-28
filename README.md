@@ -87,3 +87,10 @@ Berikut adalah proyek OSS yang dikerjakan oleh WNI sebagai hobi, kegiatan sampin
 
 * [github.com/penggguna/QuranJSON](https://github.com/penggguna/QuranJSON): Simplified Perfect Complete Quran JSON (Indonesia Translation, Tafsir, and Audio) with API 
 
+* [github.com/rizqirizqi/webpconvert](https://github.com/rizqirizqi/webpconvert): CLI Converter from png/jpg images to webp
+
+* [github.com/rizqirizqi/jest-coverage-to-csv](https://github.com/rizqirizqi/jest-coverage-to-csv): Jest coverage report converter from json to csv
+
+* [github.com/rizqirizqi/scientific-name-fetcher](https://github.com/rizqirizqi/scientific-name-fetcher): Fetch plants and animals scientific name information from the internet
+
+* [github.com/rizqirizqi/scientific-name-scraper](https://github.com/rizqirizqi/scientific-name-scraper): Scrape plants scientific name information from the internet.
