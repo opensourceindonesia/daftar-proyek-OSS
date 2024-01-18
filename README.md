@@ -37,6 +37,8 @@ Berikut adalah proyek OSS yang dikerjakan oleh pekerja perusahaan, misalnya pere
 ## Proyek OSS dari Komunitas
 Berikut adalah proyek OSS yang dikerjakan oleh komunitas/pegiat/yayasan 
 
+* [https://github.com/GeniXCMS/GeniXCMS](https://github.com/GeniXCMS/GeniXCMS): Simple and Lightweight Content Management System Framework using PHP & MySQL. 
+
 * [https://github.com/OpenSID/OpenSID](https://github.com/OpenSID/OpenSID): Sistem Informasi Desa (SID) yang sengaja dibuat terbuka agar dapat dikembangkan secara bersama-sama oleh komunitas peduli SID
 
 ## Proyek OSS Pribadi
