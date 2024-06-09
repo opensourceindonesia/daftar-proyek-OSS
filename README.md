@@ -40,6 +40,7 @@ Berikut adalah proyek OSS yang dikerjakan oleh komunitas/pegiat/yayasan
 * [https://github.com/GeniXCMS/GeniXCMS](https://github.com/GeniXCMS/GeniXCMS): Simple and Lightweight Content Management System Framework using PHP & MySQL. 
 
 * [https://github.com/OpenSID/OpenSID](https://github.com/OpenSID/OpenSID): Sistem Informasi Desa (SID) yang sengaja dibuat terbuka agar dapat dikembangkan secara bersama-sama oleh komunitas peduli SID
+* [https://github.com/abydahana/Aksara](https://github.com/abydahana/Aksara): Aksara (Aksara CMS) adalah sebuah framework turunan dari CodeIgniter yang dapat digunakan untuk membuat suatu aplikasi berskala dan mempercepat pembuatannya. Hanya dengan menulis 1 baris kode pada controller, maka secara ajaib Aksara akan menghasilkan 2 versi output, yaitu output tradisional dan headless (API). Aksara sudah terbundle dengan berbagai plugin dan library yang biasa digunakan oleh pengembang dan semuanya telah siap pakai. Teknologi yang digunakan Aksara telah dilakukan berbagai optimalisasi, sehingga akses pada aplikasi menjadi sangat cepat dan handal pada sisi keamanan.
 
 ## Proyek OSS Pribadi
 
