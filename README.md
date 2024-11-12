@@ -87,5 +87,7 @@ Berikut adalah proyek OSS yang dikerjakan oleh WNI sebagai hobi, kegiatan sampin
 
 * [github.com/mufti1/json-to-swagger](https://github.com/mufti1/json-to-swagger): Tools dan [website](https://json-to-swagger.netlify.com/) untuk parsing JSON schema ke Swagger YAML schema.
 
-* [github.com/penggguna/QuranJSON](https://github.com/penggguna/QuranJSON): Simplified Perfect Complete Quran JSON (Indonesia Translation, Tafsir, and Audio) with API 
+* [github.com/penggguna/QuranJSON](https://github.com/penggguna/QuranJSON): Simplified Perfect Complete Quran JSON (Indonesia Translation, Tafsir, and Audio) with API
+
+* https://github.com/kukuhtw/kumpulblogger.com/tree/master - Kumpulblogger.com adalah proyek open source untuk membangun platform ad network PPC terdesentralisasi dengan konsep federasi. Dirilis di bawah lisensi Apache 2.0, platform ini memungkinkan kolaborasi antara pemilik ad network, pengiklan, dan publisher dalam ekosistem yang saling terhubung. Dengan Kumpulblogger.com, pengguna dapat menjalankan jaringan iklan mereka sendiri, berbagi data pengiklan dan publisher dengan jaringan lain, dan menetapkan model pembagian hasil yang fleksibel.
 
