@@ -43,6 +43,8 @@ Berikut adalah proyek OSS yang dikerjakan oleh komunitas/pegiat/yayasan
 
 * [https://github.com/OpenSID/OpenSID](https://github.com/OpenSID/OpenSID): Sistem Informasi Desa (SID) yang sengaja dibuat terbuka agar dapat dikembangkan secara bersama-sama oleh komunitas peduli SID
 
+* [https://github.com/papuaopensource/kamus-bahasa-moy-website](https://github.com/papuaopensource/kamus-bahasa-moy-website): Kamus Bahasa Moy adalah Website yang dikembangkan untuk membantu melestarikan dan mempromosikan bahasa Moy dari Jayapura, Papua. Kode sumber Proyek ini dapat Anda gunakan untuk membuat website kamus untuk bahasa daerah lainnya di Indonesia atau di seluruh dunia.
+
 ## Proyek OSS Pribadi
 
 Berikut adalah proyek OSS yang dikerjakan oleh WNI sebagai hobi, kegiatan sampingan, bagian dari aktivitas belajar, dsb.
